@@ -234,7 +234,7 @@ body {
 .main__content h1 {
 	font-size: 4rem;
 	background-color: #50C878;
-	background-image: linear-gradient(to top, #051912 0%, #50C878 100%); to top, #f7ef8a 0%, #ae8625 100%
+	background-image: linear-gradient(to top, #8c8c8c 0%, #f2f3f2 100%);  to top, #f7ef8a 0%, #ae8625 100%
 	background-size: 100%;
 	-webkit-background-clip: text;
 	-moz-background-clip: text;
@@ -245,7 +245,7 @@ body {
 .main__content h2 {
 	font-size: 2rem;
 	background-color: #50C878;
-	background-image: linear-gradient(to top, #051912 0%, #50C878 100%); to top, #f7ef8a 0%, #ae8625 100%
+	background-image: linear-gradient(to top, #A13941FF 0%, #BD7F37FF 100%);  to top, #f7ef8a 0%, #ae8625 100%
 	background-size: 100%;
 	-webkit-background-clip: text;
 	-moz-background-clip: text;
@@ -375,7 +375,7 @@ body {
 .services h1{
 	font-size: 4rem;
 	background-color: #A13941FF;
-	background-image: linear-gradient(to top, #A13941FF 0%, #BD7F37FF 100%); to top, #BD7F37FF 0%,#A13941FF 100%
+	background-image: linear-gradient(to top, #8c8c8c 0%, #f2f3f2 100%); to top, #BD7F37FF 0%,#A13941FF 100%
 	background-size: 100%;
 	-webkit-background-clip: text;
 	-moz-background-clip: text;
